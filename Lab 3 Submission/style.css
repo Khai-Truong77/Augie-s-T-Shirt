@@ -1,0 +1,94 @@
+/*
+Khai Truong
+Summer 2021
+
+Amethyst        #b663e6
+Raspberry       #e66393
+Hot Pink        #e663d5
+Baby Blue       #ccf0ff
+Pastel Purple   #d1aae6
+*/
+
+/* heading and lines */
+h1{text-align: center; color: #b663e6;}
+h2{text-align: center; color: #b663e6;}
+h3{text-align: center; color: #b663e6;}
+h4{color: #6393e6}
+.reference{text-align: center;}
+.location{text-align: center;}
+.info{text-align: center;}
+
+
+/* main text/body/margins/ background */
+.wrapper{width: 70%;margin: 0 auto; max-width: 1440px;}
+p{color: #6393e6;text-align: center;}
+.AboutUsP{font-size: 18px;}
+body{background-color: #ccf0ff; background-image: url(./sampleimages/weather2.png);width:auto ; height: 900px; border-radius: 10px;}
+
+/*Home Images*/
+.Img1{width: 200px; height: 275px; margin: 15px;float: left; border-radius: 10px;}
+.Img2{width: 200px; height: 275px; margin:15px; float: right; border-radius: 10px;}
+.Img3{width: 115px; height: 165px; margin: 5px;float: left; border-radius: 10px;}
+.Img4{width: 115px; height: 165px; margin: 5px;float: left; border-radius: 10px;}
+.Img5{width: 115px; height: 165px; margin: 5px; float: right; border-radius: 10px;}
+.Img6{width: 115px; height: 165px; margin: 5px; float: right; border-radius: 10px;}
+.Img7{width: 115px; height: 135px; margin: 0px;float: left; padding-left: 450px; border-radius: 10px;}
+.Img8{width: 115px; height: 135px; margin: 0px;float: right; padding-right: 450px; border-radius: 10px;}
+
+/*Contact Us Images*/
+.Img9{width: 200px; height: 225px; margin: 0px; float: left; border-radius: 10px;}
+.Img10{width: 200px; height: 225px; margin: 0px; float: right; border-radius: 10px;}
+.Img11{width: 200px; height: 260px; margin: 0px; float: left; border-radius: 10px; padding-left: 120px;}
+.Img12{width: 200px; height: 260px; margin: 0px; float: left; border-radius: 10px; padding-left: 265px;}
+.Img13{width: 200px; height: 260px; margin: 0px; float: right; border-radius: 10px; padding-right: 120px;}
+
+/*About Us Images*/
+.Img14{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img15{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+.Img16{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img17{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+
+/*Design Images*/
+.Img18{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img19{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+.Img20{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img21{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+.Img22{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img23{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+.Img24{width: 200px; height: 250px; margin: 15px; padding-left: 90px; border-radius: 10px;}
+.Img25{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img26{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+
+/*Sales Images */
+.Img27{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img28{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+.Img29{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img30{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+.Img31{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img32{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+
+
+/* Shop Now */
+.Img33{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px;}
+.Img34{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px;}
+.Img35{width: 200px; height: 250px; margin: 15px;float:left; border-radius: 10px; padding-left: 200px;}
+.Img36{width: 200px; height: 250px; margin: 15px;float:right; border-radius: 10px; padding-right: 200px;}
+
+/* lists */
+ul{text-align: center; color: #e663d5;}
+ol{text-align: center; color: #e663d5;}
+
+/* specific emphasis */
+.highlight{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-style: italic ;font-size: 18px; color: #e663d5;} 
+.charge{font-size: 18px; font-weight: bolder ;color: #e66393;}
+.bottomlogo{font-style: italic;}
+hr{outline-color: #e663d5;background-color: #e663d5 ;height: 1px;width: 85%; margin-left: auto; margin-right: auto; border-radius: 10px;}
+
+/* Navigation Section */
+.navigation{border:solid 25px #d1aae6; border-radius: 10px ;background-color: #d1aae6;width: 70%; text-align: center; margin: 0 auto; height: 15px;}
+.menu{float: left; width: 16.5%;}
+
+/* Footer */
+#contactinfo{text-decoration: underline;text-align: center;}
+.contactinformation{text-align:center; font-size: 18px; border: solid 6px #e663d5; border-radius: 10px; height: 175px; width: 70%; margin: 0 auto;}
+.foot{float: left; width: 20%}
